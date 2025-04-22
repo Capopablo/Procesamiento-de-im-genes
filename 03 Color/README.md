@@ -4,7 +4,7 @@ Este trabajo práctico corresponde al tercer laboratorio de la materia.
 
 En este ejercicio se trabajó con la imagen color de un limonero para explorar conceptos fundamentales como la separación de canales y visualización de histogramasde una imagen digital.
 
-## 🧪 Objetivos
+## Objetivos
 
 - Practicar la manipulación de imágenes RGB.
 - Visualizar los canales individuales (Rojo, Verde, Azul).
