@@ -11,7 +11,7 @@ En este ejercicio se trabajó con la imagen color de un limonero para explorar c
 - Analizar los histogramas de cada canal.
 - Familiarizarse con herramientas básicas de procesamiento digital en Python.
 
-## 🚀 Cómo usar el notebook
+## ¿Cómo usar el notebook?
 
 1. Abrir en [Google Colab](https://colab.research.google.com/).
 2. Ejecutar las celdas en orden
