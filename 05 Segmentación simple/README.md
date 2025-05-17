@@ -1,4 +1,4 @@
-Segmentación por Color
+## Segmentación por Color
 
 Este trabajo práctico corresponde al quinto laboratorio de la materia.
 
